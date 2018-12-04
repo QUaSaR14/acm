@@ -1,27 +1,7 @@
-/**
- * jquery.slitslider.js v1.1.0
- * http://www.codrops.com
- *
- * Licensed under the MIT license.
- * http://www.opensource.org/licenses/mit-license.php
- * 
- * Copyright 2012, Codrops
- * http://www.codrops.com
- */
 
 ;( function( $, window, undefined ) {
 	
 	'use strict';
-
-	/*
-	* debouncedresize: special jQuery event that happens once after a window resize
-	*
-	* latest version and complete README available on Github:
-	* https://github.com/louisremi/jquery-smartresize/blob/master/jquery.debouncedresize.js
-	*
-	* Copyright 2011 @louis_remi
-	* Licensed under the MIT license.
-	*/
 	var $event = $.event,
 	$special,
 	resizeTimeout;
