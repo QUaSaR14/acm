@@ -575,8 +575,9 @@ h1.navbar-brand {
     margin-left: 135px;
 }
 
-.recent-img{
-    padding-bottom: 10%;
+.recent-item{
+    line-height: 50px;
+    font-size: 18px;
 }
 /*=================================================================
 	Services
